@@ -1,3 +1,7 @@
 body {
-    background-color: pink;
+    background: url('../images/space-background.jpg');
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    /* background-position: center center; */
 }
+
