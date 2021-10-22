@@ -21,7 +21,7 @@ main {
 }
 
 #games-section {
-    background: rgb(24, 24, 24, 0.8);
+    background-color: rgb(24, 24, 24, 0.8);
     width: 50%;
     border-radius: 10%;
     border: solid rgb(153, 153, 153);
