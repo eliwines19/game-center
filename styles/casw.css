@@ -7,7 +7,7 @@ body {
 }
 
 #main-header {
-    margin: 10% 0;
+    margin: 3% 0;
     text-align: center;
     font-size: 300%;
     color: rgb(241, 241, 241);
@@ -19,4 +19,17 @@ body {
     font-size: 200%;
     text-decoration: none;
     color: rgb(128, 128, 255);
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#casw-container {
+    color: rgb(241, 241, 241);
+    padding: 10%;
+
+    background-color: rgb(199, 31, 31);
 }
