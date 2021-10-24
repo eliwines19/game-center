@@ -29,7 +29,8 @@ main {
 
 #casw-container {
     color: rgb(241, 241, 241);
-    padding: 10%;
+    /* padding: 10%; */
 
     background-color: rgb(199, 31, 31);
 }
+
