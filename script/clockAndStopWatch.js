@@ -6,7 +6,6 @@ document.addEventListener("DOMContentLoaded", () => {
 })
 
 const getCurrentDate = () => {
-    console.log("getCurrentDate invoked")
 
     const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
     const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
@@ -23,12 +22,10 @@ const getCurrentDate = () => {
     currentDate.innerHTML = d.getDate();
     currentYear.innerHTML = d.getFullYear();
 
-    console.log(d.getFullYear());
-
 }
 
 const getCurrentTime = () => {
-    // console.log("getCurrentTime invoked")
+    console.log("getCurrentTime invoked")
 
 
 

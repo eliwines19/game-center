@@ -29,8 +29,16 @@ main {
 
 #casw-container {
     color: rgb(241, 241, 241);
-    /* padding: 10%; */
+    border: solid 2pt rgb(241, 241, 241);
+    background-color: rgb(24, 24, 24, 0.8);
+    padding: 3%;
+}
 
-    background-color: rgb(199, 31, 31);
+#date-container h3 {
+    margin: 0;
+}
+
+#date-container {
+    /* margin: 8% 0; */
 }
 
